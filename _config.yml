@@ -1,6 +1,6 @@
 name: Biiit
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.87913
 typography_spectrum: 0.09277
 title: Beat Meier
 cta:
@@ -22,8 +22,8 @@ color:
     - '#899aa4'
     - '#415065'
     - '#e3873e'
-  brandStrength: 0.125
-  lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0.5
+  brandStrength: 0.625
+  lightness: 0.4375
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
