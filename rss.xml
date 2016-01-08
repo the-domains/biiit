@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Biiit]]></title>
-        <description><![CDATA[Biiit]]></description>
+        <title><![CDATA[Beat Meier]]></title>
+        <description><![CDATA[Beat Meier]]></description>
         <link>https://thegrid.ai/biiit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 22:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 22:57:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/biiit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Epic sunset in Broome, Australia]]></title>
-            <description><![CDATA[<article><h1>Epic sunset in Broome, Australia</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdcda226c167e266e5765ed3e11ef0088d11bd07.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Epic sunset in Broome, Australia</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8d4ef4a2c2fa5e210bd992672c668e3e4fb88a1.jpg"></article>]]></description>
             <link>https://thegrid.ai/biiit/epic-sunset-in-broome-australia/index.html</link>
             <guid isPermaLink="false">a34fbbb8-5a20-4aa0-920e-ca6729b51c4f</guid>
             <pubDate>Fri, 08 Jan 2016 22:50:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Yes, I am in!]]></title>
+            <description><![CDATA[<article><h1>Yes, I am in!</h1><p>Sorry, this tour has sold out. Please drop me an email if you would like to be included on a future Scotland tour and sign up to the mailing list! In this adventurous workshop we will be aiming to summit camp on some of Scotland's finest peaks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aedd63834bc34a40002b4e0814a0646cfc4b049.jpg"></article>]]></description>
+            <link>http://www.alexnail.com/workshop/scotland-summit-camps/</link>
+            <guid isPermaLink="false">10cbd1c2-609a-49a4-85a4-d98007249293</guid>
+            <pubDate>Fri, 08 Jan 2016 22:57:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I am onboard!]]></title>
-            <description><![CDATA[<article><h1>I am onboard!</h1><p>I am very exited to get the chance to try out thegrid.io. Well, let's add now some content to see the magic happen. I will go from there.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d33c0dfd4382f71e3e5123eef24075be3425974.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>I am onboard!</h1><p>I am very exited to get the chance to try out thegrid.io. Well, let's add now some content to see the magic happen. I will go from there.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01918800cf5939b1daa97255a61e962f3c653963.jpg"></article>]]></description>
             <link>https://thegrid.ai/biiit/i-am-onboard/index.html</link>
             <guid isPermaLink="false">52c4301a-577e-4977-a19e-95c2f5307b9e</guid>
             <pubDate>Fri, 08 Jan 2016 22:50:39 GMT</pubDate>
